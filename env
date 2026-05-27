@@ -1,5 +1,0 @@
-PG_HOST=localhost
-PG_PORT=5432
-PG_DATABASE=jfam_db
-PG_USER=jfam_user
-PG_PASSWORD=jfam123
